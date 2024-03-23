@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.card {
+    padding-bottom: 30px;
+    margin-bottom: 40px;
+}
+
+select#list {
+    width: 350px;
+    height: 35px;
+    border-color: rgba(170, 167, 167, 0.5);
+    border-radius: 5px;
+}
+
+.container .form-group {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    margin: 2px 0;
+}
+
+.container h5 {
+    font-size: 15px;
+    color: blue;
+    font-weight: bold;
+}
+
+.container h3 {
+    font-size: 25px;
+    color: blue;
+    font-weight: bold;
+}
+
+.icon {
+    position: absolute;
+    left: 95%;
+    top: 90%;
+    transform: translateY(-50%);
+}
+
+.form-group img {
+    display: block;
+    margin-left: 82%;
+    margin-right: auto;
+}
+
+.container .button {
+    width: 97%;
+    height: 90px;
+    background: blue;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 36px;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    margin-top: 50px;
+    margin-left: 18px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 100px;
+    margin-top: -90px;
+    margin-left: -70px;
+    margin-right: -50px;
+}
+
+li {
+    margin-bottom: 15px;
+    line-height: 20px;
+    font-size: 20px;
+}
+
+.square {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-right: 5px;
+}
+.box{
+    margin-top: -100px;
+    margin-left: 30px;
+    width: 400px;
+    height: 110px;
+    border: black;
+    background-color: blue;
+    border-radius: 3px;
+}
+
+
